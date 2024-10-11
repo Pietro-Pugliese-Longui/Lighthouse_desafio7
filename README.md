@@ -3,7 +3,9 @@
 ## Requisitos
 
 O desafio foi realizado no sistema operacional Linux Mint;
+
 É necessário ter o [Docker engine](https://docs.docker.com/engine/install/ubuntu/);
+
 Clonar o repositório.
 
 ## Preparando o ambiente
